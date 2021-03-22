@@ -1,0 +1,7 @@
+C:\Users\busra\source\repos\örnekk\örnekk\obj\Debug\örnekk.csprojAssemblyReference.cache
+C:\Users\busra\source\repos\örnekk\örnekk\obj\Debug\örnekk.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\örnekk\örnekk\bin\Debug\örnekk.exe.config
+C:\Users\busra\source\repos\örnekk\örnekk\bin\Debug\örnekk.exe
+C:\Users\busra\source\repos\örnekk\örnekk\bin\Debug\örnekk.pdb
+C:\Users\busra\source\repos\örnekk\örnekk\obj\Debug\örnekk.exe
+C:\Users\busra\source\repos\örnekk\örnekk\obj\Debug\örnekk.pdb
